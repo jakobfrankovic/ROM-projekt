@@ -34,5 +34,7 @@ Na koncu bom še omenil, katero izmed naštetih podjetji se je najbolje odrezalo
 3. Analiziral bom kako se različne vrste podjetji med seboj primerjajo in nato še bolj podrobno za posamezna podjetja v neki panogi.
 (če se bo izkazalo, da bo projekt preobsežen, se bom osredotočil na bolj "zanimiva" podjetja)
 
+4. Na podlagi ugotovitev bom poskusil ugotoviti kaj se bo v prihodnosti dogajalo s posamezno panogo podjetij.
+
 + Primer: Tehnološko podjetje, ki se ukvarja s polprevodniki: NVIDIA, kako je na to podjetje vplivala korona, (ali so mogoče bili še kakšni drugi zapleti) kako je to vplivalo na rast delnice, kako na dobiček podjetja. Kako je to v primerjavi s tekmecem AMD, ali kakšnim podjetjem iz druge panoge (npr. v primerjavi z Mcdonaldsom), zakaj je prišlo do te razlike.
 
