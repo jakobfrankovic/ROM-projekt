@@ -31,7 +31,7 @@ Na koncu bom še omenil, katero izmed naštetih podjetij se je najbolje odrezalo
     * Podjetja, ki se ukvarjajo s počitnicami(krizarke,...):
         * Norwegian cruise line
         * Royal Carribean
-3. Analiziral bom kako se različne vrste podjetji med seboj primerjajo in nato še bolj podrobno za posamezna podjetja v neki panogi.
+3. Analiziral bom kako se različne vrste podjetij med seboj primerjajo in nato še bolj podrobno za posamezna podjetja v neki panogi.
 (če se bo izkazalo, da bo projekt preobsežen, se bom osredotočil na bolj "zanimiva" podjetja)
 
 4. Na podlagi ugotovitev bom poskusil ugotoviti kaj se bo v prihodnosti dogajalo s posamezno panogo podjetij.
