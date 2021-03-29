@@ -3,7 +3,7 @@
 Analiziral bom dobiček in ceno delnic podjetij različnih panog.
 Za vsako vrsto bom za vzorec izbral nekaj podjetij in nato analiziral njihov dobiček(za podatek bom uporabil financial annual report podjetja) in nato še ceno delnic. S pomočjo Wolframa bom analiziral, zakaj je nekje prišlo do padca, ali rasti.
 
-Poskusil bom tudi najti "neintuitivne" korelacije, kot bi npr. bila da na vsak deževen dan zraste cena delnic za nekaj centov, itd. (tukaj bom uporabil Wolframov data repository).
+Poskusil bom tudi najti "neintuitivne" korelacije, kot bi npr. bila da na vsak deževen dan pade cena delnic za nekaj centov, itd. (tukaj bom uporabil Wolframov data repository).
 
 Na koncu bom še omenil, katero izmed naštetih podjetij se je najbolje odrezalo v korona krizi.
 ### Načrt projekta:
