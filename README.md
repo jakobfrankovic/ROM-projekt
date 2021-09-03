@@ -19,6 +19,6 @@ Poskusil bom tudi najti "neintuitivne" korelacije, kot bi npr. bila, da na vsak 
 4. Kako na Nvidio vpliva geografska postavitev podjetja in proizvodnje.
 
 ### Povezava do videoposnetka:
-* <https://youtu.be/SuRds2qJSdU>
+* <https://youtu.be/8p7G2csTPS0>
 ### Povezava do aplikacije:
 * <https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-d689eaef4e0d>
