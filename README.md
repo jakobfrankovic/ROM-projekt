@@ -18,10 +18,6 @@ Poskusil bom tudi najti "neintuitivne" korelacije, kot bi npr. bila da na vsak d
 4. Kako na Nvidijo vpliva geografska postavitev podjetja in proizvodnje.
 
 ### Povezava do video posnetka:
-*https://youtu.be/SuRds2qJSdU
+* <https://youtu.be/SuRds2qJSdU>
 ### Povezava do aplikacije:
-*Hyperlink["https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-\
-d689eaef4e0d", \
-"https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-\
-d689eaef4e0d"]
-
+* <https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-\>
