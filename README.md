@@ -21,4 +21,4 @@ Poskusil bom tudi najti "neintuitivne" korelacije, kot bi npr. bila, da na vsak 
 ### Povezava do videoposnetka:
 * <https://youtu.be/SuRds2qJSdU>
 ### Povezava do aplikacije:
-* <https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-\>
+* <https://www.wolframcloud.com/obj/89ea165b-a222-484e-a043-d689eaef4e0d>
