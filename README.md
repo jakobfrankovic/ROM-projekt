@@ -1,5 +1,7 @@
 # ROM-projekt: Analiziranje Podjetja Nvidia
 ## Opis projekta:
+(Projekt je bil preimenovan iz naslova Analiziranje in primerjava podjetij različnih panog, ker je bil projekt preobsežen. Osredotočil sem se na analiziranje podjetja Nvidia) 
+)
 Analiziral bom dobiček in ceno delnic podjetja Nvidia.
 S pomočjo Wolframa bom analiziral, zakaj je nekje prišlo do padca, ali rasti.
 
